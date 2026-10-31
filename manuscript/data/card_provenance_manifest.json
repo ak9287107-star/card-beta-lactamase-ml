@@ -1,0 +1,39 @@
+{
+  "manifest_date": "2026-08-25",
+  "card_release": "4.0.2",
+  "card_last_modified": "2026-08-12",
+  "source_url": "https://card.mcmaster.ca/latest/data",
+  "readme_url": "https://card.mcmaster.ca/readme/data",
+  "files": [
+    {
+      "path": "data/raw/card_2026-08-12/card-data.tar.bz2",
+      "bytes": 4366637,
+      "sha256": "94b89501fc26daafbe65e4151c17a8b007dc1272c4f8201737e44e44cdd4c065"
+    },
+    {
+      "path": "data/raw/card_2026-08-12/card.json",
+      "bytes": 38086878,
+      "sha256": "d9a0576e6068762b224c9d3b0f6ec76083e3bfd7323e0f73d1584ef8e2ae7c0f"
+    },
+    {
+      "path": "data/raw/card_2026-08-12/protein_fasta_protein_homolog_model.fasta",
+      "bytes": 2332067,
+      "sha256": "86346a3e34a381a17101ba1dd8aba6e18161fc5369f61532952a292b25d3c788"
+    },
+    {
+      "path": "data/curated/card_betalactamase_all.csv",
+      "bytes": 3246293,
+      "sha256": "5320eaf0b5db18badf58bbeea872822a0cf0633b2644bec6e9499d556e3b5e3d"
+    },
+    {
+      "path": "data/curated/card_betalactamase_proxy_training_ambler_A-D.csv",
+      "bytes": 2032844,
+      "sha256": "69c783ba0f603e1525a14bdc7c625b3be942f2080e9e6e17e0ddc46debbd3c15"
+    },
+    {
+      "path": "data/curated/card_betalactamase_ambler_A-D.fasta",
+      "bytes": 1185774,
+      "sha256": "20a6b64fc1da2dbac97c5eac96cd2b5164bf5e826f958129aa1cc2e6d5ab9ed8"
+    }
+  ]
+}

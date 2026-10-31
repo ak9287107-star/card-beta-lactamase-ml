@@ -107,3 +107,8 @@ If you use this code, cite the associated study and the CARD resource. A machine
 ## License
 
 The original source code in this repository is released under the MIT License. CARD data and derived annotations remain subject to the terms of their original source.
+
+
+## Reproducibility release
+
+The manuscript-support files and validated derived results associated with this version are available in the immutable GitHub release tag `v1.0.0`. The release includes the anonymous manuscript, numbered bibliography, provenance manifest, figures, and result tables; it does not include raw CARD sequences or private submission documents.

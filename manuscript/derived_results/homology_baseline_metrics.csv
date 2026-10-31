@@ -1,0 +1,2 @@
+Model,GroupedCVBalancedAccuracyMean,GroupedCVBalancedAccuracyStd,GroupedCVMacroF1Mean,GroupedCVAccuracyMean,GroupedCVNoHitRateMean,GroupedCVFolds
+DIAMOND nearest homolog,0.5139893208916345,0.14635486856484037,0.48408940039024084,0.5119789821036961,0.0003597122302158251,5

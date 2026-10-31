@@ -1,0 +1,22 @@
+{
+  "method": "DIAMOND nearest-homolog classifier",
+  "diamond_version": "diamond version 2.1.9",
+  "evalue_cutoff": 1e-05,
+  "max_target_seqs": 1,
+  "alignment_engine": "DIAMOND blastp --sensitive",
+  "group_column": "amr_gene_family",
+  "random_seed": 42,
+  "valid_grouped_folds": 5,
+  "metrics": [
+    {
+      "Model": "DIAMOND nearest homolog",
+      "GroupedCVBalancedAccuracyMean": 0.5139893208916345,
+      "GroupedCVBalancedAccuracyStd": 0.14635486856484037,
+      "GroupedCVMacroF1Mean": 0.48408940039024084,
+      "GroupedCVAccuracyMean": 0.5119789821036961,
+      "GroupedCVNoHitRateMean": 0.0003597122302158251,
+      "GroupedCVFolds": 5
+    }
+  ],
+  "limitations": "This is a nearest-homolog reference baseline, not a mechanistic hydrolysis model. It uses the same CARD proxy labels and grouped folds as the compact-feature models. No-hit predictions fall back to the training-fold majority class and are logged. DIAMOND alignment scores are used as a computationally efficient homology baseline and are not interchangeable with BLASTP scores without noting the engine and parameters."
+}
