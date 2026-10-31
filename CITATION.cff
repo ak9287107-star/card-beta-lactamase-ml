@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "CARD beta-lactamase machine-learning classification"
+authors:
+  - family-names: Khan
+    given-names: Muhammad Ahmad
+    affiliation: University of Peshawar
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/ak9287107-star/card-beta-lactamase-ml"
